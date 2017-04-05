@@ -1,7 +1,7 @@
 
 /**
  * @author: Ivette Cardona 16020
- * @author: Carlos Arroyave 
+ * @author: Carlos Arroyave 16774
  * Interfaz PriorityQueue
  * Codigo obtenido del libro JavaStructures
  */
