@@ -1,6 +1,6 @@
 import java.util.Vector; 
 //Codigo obtenido de internet
-//author, 2001 duane a. bailey
+//@author, 2001 duane a. bailey
 
 public class VectorHeap<E extends Comparable<E>> implements PriorityQueue<E>
 {
